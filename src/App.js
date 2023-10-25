@@ -9,7 +9,7 @@ function App() {
         console.log(err.message);
       });
   }, []);
-  return <div></div>;
+  return <div>{}</div>;
 }
 
 export default App;
